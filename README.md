@@ -20,6 +20,10 @@ Business Objectives:- <br>
 ✔️ XGBoost Classifier
 ✔️ Random Forest Classifier
 
-
+<br>
+<img src="1.png">
+<img src="2.png">  
+  
+  
 
 
